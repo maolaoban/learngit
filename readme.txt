@@ -1,3 +1,4 @@
-Git is a distributed version control system.
-Git is free software.
-Creating a new branch is quick & simple.
+I'm maolaoban
+I'm 敲代码
+I'm 学git
+I'm 搞实战
